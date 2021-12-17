@@ -19,3 +19,18 @@ fn main(){
     }
     println!("{}",start)
 }
+fn crt(max:f32){
+    let primes = primes(max as i32);
+    let mut N = 1;
+    let mut i = 1;
+    let mut check = true;
+    let limit = max.sqrt();
+    while check {
+
+    }
+}
+fn primes(n: i32)-> Vec<i32> {
+
+    return Vec::new()
+
+}
